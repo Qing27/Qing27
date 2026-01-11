@@ -37,7 +37,7 @@ I’m exploring Vulnerability Assessment, Penetration Testing, and Red/Purple Te
 ---
 
 ### 📊 GitHub Stats
-![ZQ Ho GitHub stats](https://github-readme-stats.vercel.app/api?username=Qing27&show_icons=true&theme=radical)
+![Qing27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qing27&show_icons=true&theme=radical)
 
 ---
 
