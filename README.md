@@ -13,11 +13,6 @@ CEH certification is coming in **April 2026** — until then, I’m building pro
 
 ---
 
-<!--
-**Qing27/Qing27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... (See projects above)
 - 🌱 I’m currently learning ... CEH, Red/Purple Team techniques, VA tools
 - 👯 I’m looking to collaborate on ... security projects or labs
