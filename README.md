@@ -1,24 +1,51 @@
-## Hi there 👋
+## 👋 Hello! I'm Ho Zi Qing
 
-I’ve spent years keeping IT systems running smoothly… now I’m on a mission to break them (safely!) and make them stronger.  
+I learn by breaking things (safely) and making them better — building Red/Purple Team skills one vulnerability at a time.  
 
-I’m exploring the world of Vulnerability Assessment, Penetration Testing, and Red/Purple Team operations — finding weak spots, learning from them, and building defenses.  
+I’m exploring Vulnerability Assessment, Penetration Testing, and Red/Purple Team operations — finding weak spots, learning from them, and building defenses.
 
-Some things I’m working on right now:  
+### 🔭 Current Projects
 - **VA Lab** – Hunting vulnerabilities in a simulated enterprise network  
-- **WebApp Pentest** – Taking on OWASP Top 10 challenges in DVWA/bWAPP  
-- **Purple Team Lab** – Phishing simulations and endpoint defense exercises  
+- **WebApp Pentest** – Taking on OWASP Top 10 challenges on DVWA/bWAPP  
+- **Purple Team Lab** – Phishing simulations and endpoint assessments with mitigation strategies  
 
-CEH certification is coming in **April 2026** — until then, I’m building projects, learning new tools, and sharing what I discover. Let’s make security fun!  
+### 🌱 Currently Learning
+- CEH Certification (April 2026)  
+- Advanced Pentesting Techniques & Security Automation  
+- Red & Purple Team workflows  
+
+### 💬 Ask Me About
+- Vulnerability Assessment / Penetration Testing  
+- Red / Purple Team operations  
+- Security automation with Python & Bash  
+
+### 📫 Contact Me
+- Email: ziqingho0327@gmail.com 
+- LinkedIn: [linkedin.com/in/ziqing-ho](https://linkedin.com/in/ziqing-ho)  
+- Location: Malaysia  
 
 ---
 
-- 🔭 I’m currently working on ... (See projects above)
-- 🌱 I’m currently learning ... CEH, Red/Purple Team techniques, VA tools
-- 👯 I’m looking to collaborate on ... security projects or labs
-- 🤔 I’m looking for help with ... advanced pentesting and automation
-- 💬 Ask me about ... VA, Pentesting, Red/Purple Team workflows
-- 📫 How to reach me: ... ziqingho0327@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I enjoy turning IT challenges into hands-on security experiments
--->
+### 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/-OpenVAS-008080?style=flat)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-E76C00?style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+![ZQ Ho GitHub stats](https://github-readme-stats.vercel.app/api?username=Qing27&show_icons=true&theme=radical)
+
+---
+
+### 💻 Featured Projects
+[![VA Lab](https://img.shields.io/badge/VA_Lab-Hunting_Vulnerabilities-9cf?style=for-the-badge)](https://github.com/Qing27/VA-Lab-Project)  
+[![WebApp Pentest](https://img.shields.io/badge/WebApp_Pentest-OWASP_Top10-ff6?style=for-the-badge)](https://github.com/Qing27/WebApp-Pentest)  
+[![Purple Team Lab](https://img.shields.io/badge/Purple_Team_Lab-Simulated_Attacks-6cf?style=for-the-badge)](https://github.com/Qing27/PurpleTeam-Lab)
+
+---
+
+> Let’s make cybersecurity fun! 🚀
